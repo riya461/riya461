@@ -19,10 +19,32 @@ Here are some ideas to get you started:
 
 
   ## :woman_student: About Me:
-  I am Riya, a Computer Science student from Kerala. 
+  ### Hey I am Riya,
+  <p>
+      I am a Btech Computer Science student from Kerala. 
+  </p>
   
   - I find my interest in Web Development, solving problems and coding for fun.
   - 🔭 I’m currently working on improving my skills and learn more about exciting topics.
+  
+   ### :computer: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  
+  <!--
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
+  -->
+ </div>
+
+
+
  ### Contact:
     
      
@@ -31,12 +53,16 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align = "center">
+<p>
  <a href="https://www.linkedin.com/in/riya-sabu-aa2177229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/?to=riyasabures@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/>
+ </p>
+ <p>
+  <a>
+    :email:  :     riyasabures@gmail.com
   </a>
+ </p>
 
 
 </div>
@@ -52,27 +78,9 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="150"/>
-</div>
 <p align ="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=riya461&theme=vision-friendly-dark"(https://github.com/anuraghazra/github-readme-stats)
 </p>
   
 
 
- ### :computer: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  
-  <!--
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  -->
- </div>
