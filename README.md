@@ -68,20 +68,16 @@ Here are some ideas to get you started:
 
 </div>
   
- ---
 
 
-<div>
+<div align = "center">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=riya461&show_icons=true&count_private=true)
+
   
 
-  <p align = "center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=riya461&theme=dark&background=000000"(https://git.io/streak-stats)>
-  </p>
-</div>
-
-<p align ="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=riya461&theme=vision-friendly-dark"(https://github.com/anuraghazra/github-readme-stats)
-</p>
-  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=riya461&layout=compact)
+ 
+   </div>
 
 
