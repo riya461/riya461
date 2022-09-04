@@ -69,9 +69,6 @@ Here are some ideas to get you started:
   
 
 
-<div align = "center">
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=riya461&show_icons=true&count_private=true)
 
   
 
