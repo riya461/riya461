@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 
 </div>
   
-
 <div id="header" align="center">
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=riya461&layout=compact)
