@@ -53,24 +53,21 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align = "center">
-<p>
- <a href="https://www.linkedin.com/in/riya-sabu-aa2177229">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </p>
- <p>
-  <a>
-    :email:  :     riyasabures@gmail.com
-  </a>
- </p>
 
 
+<hr>
+
+
+[<img align="center" alt="Riya Sabu | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/riya-sabu-aa2177229/)
+
+[<img align="center" alt="riyasabures@gmail.com" width="22px" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" />](mailto:riyasabures@gmail.com)
 </div>
   
 <div id="header" align="center">
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=riya461&layout=compact)
  
- 
-</div>
 
+
+![GitHub PR's](https://github-readme-stats.vercel.app/api?username=riya461&show_icons=true&theme=dark&include_all_commits=true)!<!--(https://raw.githubusercontent.com/riya461/riya461/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)-->
+</div>
