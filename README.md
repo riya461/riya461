@@ -36,10 +36,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;-->
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
  </div>
 
@@ -50,18 +50,13 @@ Here are some ideas to get you started:
      
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
+
+🤝 **Connect :**   &nbsp;[<img  alt="Riya Sabu | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />&nbsp;](https://www.linkedin.com/in/riya-sabu-aa2177229/)
+
+📫 **How to reach me:**   &nbsp;[<img   alt="riyasabures@gmail.com" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />&nbsp;](mailto:riyasabures@gmail.com)
 </div>
-
-<div id="badges" align = "center">
-
 
 <hr>
-
-
-[<img align="center" alt="Riya Sabu | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/riya-sabu-aa2177229/)
-
-[<img align="center" alt="riyasabures@gmail.com" width="22px" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" />](mailto:riyasabures@gmail.com)
-</div>
   
 <div id="header" align="center">
 
@@ -69,5 +64,8 @@ Here are some ideas to get you started:
  
 
 
-![GitHub PR's](https://github-readme-stats.vercel.app/api?username=riya461&show_icons=true&theme=dark&include_all_commits=true)!<!--(https://raw.githubusercontent.com/riya461/riya461/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)-->
+![GitHub PR's](https://github-readme-stats.vercel.app/api?username=riya461&show_icons=true&theme=dark&include_all_commits=true)!
+  
+ 
+
 </div>
