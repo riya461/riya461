@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       I am a Btech Computer Science student from Kerala. 
   </p>
   
-  - I find my interest in Web Development, Flutter, solving problems and coding for fun.
+  - I find my interest in Web Development, Machine Learning,  solving problems and coding for fun.
   - 🔭 I’m currently working on improving my skills and learn more about exciting topics.
   
   
@@ -58,14 +58,3 @@ Here are some ideas to get you started:
 
 <hr>
   
-<div id="header" align="center">
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=riya461&layout=compact)
- 
-
-
-![GitHub PR's](https://github-readme-stats.vercel.app/api?username=riya461&show_icons=true&theme=dark&include_all_commits=true)!
-  
- 
-
-</div>
