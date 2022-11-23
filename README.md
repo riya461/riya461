@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 📫 **How to reach me:**   &nbsp;[<img   alt="riyasabures@gmail.com" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />&nbsp;](mailto:riyasabures@gmail.com)
 </div>
 
-<hr>
+
   
