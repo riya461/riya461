@@ -36,7 +36,9 @@ Here are some ideas to get you started:
     C
     C++
     Python
-    HTML, CSS, Javascript
+    HTML 
+    CSS 
+    Javascript
     Flask
     Django
   
