@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       I am a Btech Computer Science student from Kerala. 
   </p>
   
-  - I find my interest in Web Development, Machine Learning,  solving problems and coding for fun.
+  - I find my interest in Full Stack web Development,  solving problems and coding for fun.
   - 🔭 I’m currently working on improving my skills and learn more about exciting topics.
   
   
