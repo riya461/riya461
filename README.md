@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-  ## :woman_student: About Me:
+  ## About Me:
   ### Hey I am Riya,
   <p>
       I am a Btech Computer Science student from Kerala. 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - 🔭 I’m currently working on improving my skills and learn more about exciting topics.
   
   
-   ## :computer: Languages and Tools :
+   ## Languages and Tools :
    
 <div align = "center" >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
