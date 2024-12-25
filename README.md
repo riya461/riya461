@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 
   ## About Me:
   ### Hey I am Riya,
-  <p>
-      I am a Btech Computer Science student from Kerala. 
-  </p>
   
-  - I find my interest in Full Stack web Development,  solving problems and coding for fun.
-  - 🔭 I’m currently working on improving my skills and learn more about exciting topics.
   
+  - Just experimenting with code and life
   
    
 
